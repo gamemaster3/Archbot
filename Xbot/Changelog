@@ -1,0 +1,26 @@
+Changelog
+--------
+
+--0.01a-- (X__bot)
++ first version made
++ a manager GUI with connect/disconnect functionality
+
+--0.02a-- (X__bot)
++ message sending from the control panel
++ "-counter" command
++ slight buggy integrated chat
+
+--0.03a--(Archbot)
++ Project renamed to Archbot
+- Chat bugfixes
+
+--0.04a--
+
+
+--0.05a--
+
+--0.06a--
+
+--0.07a--
+
+--0.08a--
